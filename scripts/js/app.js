@@ -8,3 +8,7 @@ function isNumber(evt) {
     }
     return true;
 }
+
+$('.index-totop').click(function(){
+    $('html, body').animate({scrollTop:$('#regis-headline').offset().top}, 'slow');
+});
