@@ -950,7 +950,7 @@ body .portfolio-grid{margin-bottom:80px;}
 .fusion-content-widget-area .product-category h3{margin-bottom:0;}
 #toTop{background-color:#333333;border-radius:4px 4px 0 0;bottom:0;color:#FFFFFF;display:none;height:35px;position:fixed;right:30px;text-align:center;text-transform:uppercase;width:48px;opacity:0.9;z-index:10000;transition:all 0.2s ease-in-out 0s;}
 .no-totop #toTop{display:none !important;}
-#toTop:before{line-height:35px;content:'\f106';-webkit-font-smoothing:antialiased;font-family:'icomoon';font-size:22px;}
+#toTop:before{line-height:35px;content:'^';-webkit-font-smoothing:antialiased;font-family:'icomoon';font-size:22px;}
 #toTop:hover{background-color:#A0CE4E;}
 #toTopHover{display:block;overflow:hidden;float:left;opacity:0;}
 #toTop:active,
@@ -4894,7 +4894,8 @@ hr{outline:0;width:100%;height:1px;background-color:#dadada;margin:2.1875em 0}
 #menu-login-container .icon-wrapper.fb-wrapper:before{background-position:-5px -5px;background-image:url(../../../themes/Avada-Child-Theme/images/thac-sheet.png)}
 #menu-login-container .icon-wrapper.in-wrapper:before{background-position:-304px -5px;background-image:url(../../../themes/Avada-Child-Theme/images/thac-sheet.png)}
 #menu-login-container .icon-wrapper.tt-wrapper:before{background-image:url(../../../themes/Avada-Child-Theme/images/submenu/tt-icon.png)}
-@media (max-width:640px){#menu-login-container{height:82px}
+@media (max-width:640px){
+    /*#menu-login-container{height:82px}*/
 #menu-login-container .menu-login-wrapper{right:15px}
 #menu-login-container .contact-wrapper{display:block}}#additional-settings a{color:#333}
 .slide-content-container{margin:0!important;-webkit-transform:translate(0,-50%);-moz-transform:translate(0,-50%);-ms-transform:translate(0,-50%);-o-transform:translate(0,-50%);transform:translate(0,-50%)}
@@ -4904,7 +4905,9 @@ hr{outline:0;width:100%;height:1px;background-color:#dadada;margin:2.1875em 0}
 .slide-content .slide-button .fusion-button-text{text-transform:none;font-family:MuseoSlab500Regular,Arial,Helvetica,Sans-Serif}
 .slide-content .caption{max-height:6.1em;overflow:hidden}
 #menu-login-container+#sliders-container{margin-top:51px}
-@media (max-width:640px){#menu-login-container+#sliders-container{margin-top:82px}}@media (max-width:800px){.slides .background.background-image{background-size:180%}
+@media (max-width:640px){
+    /*#menu-login-container+#sliders-container{margin-top:82px}*/
+}@media (max-width:800px){.slides .background.background-image{background-size:180%}
 .slide-content{max-width:none!important}
 .slide-content .heading{white-space:normal;line-height:normal}
 .slide-content .heading .title-heading-center{font-size:14px!important;line-height:1.0em!important;margin-top:22px!important}
