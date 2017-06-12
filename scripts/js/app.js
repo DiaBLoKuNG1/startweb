@@ -12,3 +12,7 @@ function isNumber(evt) {
 $('.index-totop').click(function(){
     $('html, body').animate({scrollTop:$('#regis-headline').offset().top}, 'slow');
 });
+
+$('#index-btn-regis-submit').click(function(){
+    window.location.href = 'thanks.html';
+})
