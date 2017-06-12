@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad2117a-ca07-4c35-a432-392034394a71" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/THAC_LOGO.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/js/app.js" afterPath="$PROJECT_DIR$/scripts/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/php/register.php" afterPath="$PROJECT_DIR$/scripts/php/register.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,42 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <marker date="1497181349086" expanded="true" signature="343:380" ph="SELECT name,... MyGuests" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="1496991754index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/events-manager-pro/includes/css/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8041">
-              <caret line="197" column="32195" lean-forward="false" selection-start-line="197" selection-start-column="32195" selection-end-line="197" selection-end-column="32195" />
-              <folding>
-                <marker date="1497158407351" expanded="true" signature="137855:138134" ph="..." />
-                <marker date="1497158407351" expanded="true" signature="137892:138122" ph="{...}" />
-                <marker date="1497158407351" expanded="true" signature="137999:138119" ph="{...}" />
-                <marker date="1497158407351" expanded="true" signature="138293:138685" ph="..." />
-                <marker date="1497158407351" expanded="true" signature="138330:138673" ph="{...}" />
-                <marker date="1497158407351" expanded="true" signature="138405:138668" ph="{...}" />
-                <marker date="1497158407351" expanded="true" signature="138509:138583" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -115,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="4819" column="87" lean-forward="false" selection-start-line="4819" selection-start-column="87" selection-end-line="4819" selection-end-column="87" />
+            <state relative-caret-position="562">
+              <caret line="4886" column="115" lean-forward="true" selection-start-line="4886" selection-start-column="115" selection-end-line="4886" selection-end-column="115" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -132,15 +103,13 @@
                 <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#2;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#3;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -167,30 +136,42 @@
                 <element signature="n#style#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1497229944530" expanded="true" signature="10916:11029" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="11285:11435" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="11517:11634" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="11714:11830" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="270312:270431" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="272518:272814" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="272554:272804" ph="{...}" />
-                <marker date="1497229944530" expanded="true" signature="272667:272802" ph="{...}" />
-                <marker date="1497229944530" expanded="true" signature="273006:273397" ph="..." />
-                <marker date="1497229944530" expanded="true" signature="273042:273387" ph="{...}" />
-                <marker date="1497229944530" expanded="true" signature="273080:273383" ph="{...}" />
-                <marker date="1497229944530" expanded="true" signature="273191:273289" ph="{...}" />
-                <marker date="1497229944530" expanded="true" signature="278607:278726" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="10916:11029" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="11285:11435" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="11517:11634" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="11714:11830" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="270202:270321" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="272408:272704" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="272444:272694" ph="{...}" />
+                <marker date="1497231086994" expanded="true" signature="272557:272692" ph="{...}" />
+                <marker date="1497231086994" expanded="true" signature="272896:273287" ph="..." />
+                <marker date="1497231086994" expanded="true" signature="272932:273277" ph="{...}" />
+                <marker date="1497231086994" expanded="true" signature="272970:273273" ph="{...}" />
+                <marker date="1497231086994" expanded="true" signature="273081:273179" ph="{...}" />
+                <marker date="1497231086994" expanded="true" signature="278497:278616" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+              <folding>
+                <marker date="1497231149697" expanded="true" signature="1265:1413" ph="INSERT INTO register... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -251,10 +232,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.slick-arrow.slick-hidden {//thac.or.th/wp-content/themes/Avada/assets/fonts/icomoon/</find>
-      <find>hemes/Avada/assets/fonts/icomoon/icomoon.ttf</find>
-      <find>info@</find>
-      <find>\&lt;script\&gt;\-\-\&gt;\n    \&lt;\!\-\-if \(typeof WebFontConfig \=\=\= \&quot;undefined\&quot;\) \{\-\-\&gt;\n        \&lt;\!\-\-WebFontConfig \= new Object\(\)\;\-\-\&gt;\n    \&lt;\!\-\-\}\-\-\&gt;\n    \&lt;\!\-\-WebFontConfig\[\'google\'\] \= \{families\: \[\'\'\]\}\;\-\-\&gt;\n    \&lt;\!\-\-\(function \(\) \{\-\-\&gt;\n        \&lt;\!\-\-var wf \= document\.createElement\(\'script\'\)\;\-\-\&gt;\n        \&lt;\!\-\-wf\.src \= \'\.\.\/ajax\.googleapis\.com\/ajax\/libs\/webfont\/1\.5\.3\/webfont\.js\'\;\-\-\&gt;\n        \&lt;\!\-\-wf\.type \= \'text\/javascript\'\;\-\-\&gt;\n        \&lt;\!\-\-wf\.async \= \'true\'\;\-\-\&gt;\n        \&lt;\!\-\-var s \= document\.getElementsByTagName\(\'script\'\)\[0\]\;\-\-\&gt;\n        \&lt;\!\-\-s\.parentNode\.insertBefore\(wf\, s\)\;\-\-\&gt;\n    \&lt;\!\-\-\}\)\(\)\;\&lt;\/script\&gt;</find>
       <find>weatherSans-Regular.woff</find>
       <find>MerriweatherSans</find>
       <find>ac-logo-no-text-270x270.png</find>
@@ -276,11 +253,15 @@
       <find>app.</find>
       <find>Register</find>
       <find>form</find>
-      <find>&lt;form</find>
       <find>button</find>
-      <find>#regis</find>
       <find>.flex-direction-nav .flex-next</find>
       <find>Recent Event</find>
+      <find>THAC_LOGO</find>
+      <find>#regis</find>
+      <find>&lt;img</find>
+      <find>&lt;form</find>
+      <find>_wpcf7=5&amp;_wpcf7_version</find>
+      <find>$infos</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -294,14 +275,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scripts/php/register.php" />
         <option value="$PROJECT_DIR$/css/pumstyle.css" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css" />
         <option value="$PROJECT_DIR$/success.html" />
-        <option value="$PROJECT_DIR$/scripts/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scripts/php/register.php" />
+        <option value="$PROJECT_DIR$/scripts/js/app.js" />
       </list>
     </option>
   </component>
@@ -911,12 +892,12 @@
       <option name="presentableId" value="Default" />
       <updated>1497172731591</updated>
       <workItem from="1497172745723" duration="7722000" />
-      <workItem from="1497180902016" duration="23519000" />
+      <workItem from="1497180902016" duration="24690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31241000" />
+    <option name="totallyTimeSpent" value="32412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
@@ -1076,7 +1057,7 @@
         <state relative-caret-position="85">
           <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
           <folding>
-            <marker date="1497181349086" expanded="true" signature="343:380" ph="SELECT name,... MyGuests" />
+            <marker date="1497231149697" expanded="true" signature="1265:1413" ph="INSERT INTO register... " />
           </folding>
         </state>
       </provider>
@@ -1218,24 +1199,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <marker date="1497181349086" expanded="true" signature="343:380" ph="SELECT name,... MyGuests" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/events-manager-pro/includes/css/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8041">
@@ -1254,8 +1217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="4819" column="87" lean-forward="false" selection-start-line="4819" selection-start-column="87" selection-end-line="4819" selection-end-column="87" />
+        <state relative-caret-position="562">
+          <caret line="4886" column="115" lean-forward="true" selection-start-line="4886" selection-start-column="115" selection-end-line="4886" selection-end-column="115" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1268,15 +1231,13 @@
             <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#2;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#3;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1303,20 +1264,38 @@
             <element signature="n#style#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497229944530" expanded="true" signature="10916:11029" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="11285:11435" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="11517:11634" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="11714:11830" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="270312:270431" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="272518:272814" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="272554:272804" ph="{...}" />
-            <marker date="1497229944530" expanded="true" signature="272667:272802" ph="{...}" />
-            <marker date="1497229944530" expanded="true" signature="273006:273397" ph="..." />
-            <marker date="1497229944530" expanded="true" signature="273042:273387" ph="{...}" />
-            <marker date="1497229944530" expanded="true" signature="273080:273383" ph="{...}" />
-            <marker date="1497229944530" expanded="true" signature="273191:273289" ph="{...}" />
-            <marker date="1497229944530" expanded="true" signature="278607:278726" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="10916:11029" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="11285:11435" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="11517:11634" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="11714:11830" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="270202:270321" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="272408:272704" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="272444:272694" ph="{...}" />
+            <marker date="1497231086994" expanded="true" signature="272557:272692" ph="{...}" />
+            <marker date="1497231086994" expanded="true" signature="272896:273287" ph="..." />
+            <marker date="1497231086994" expanded="true" signature="272932:273277" ph="{...}" />
+            <marker date="1497231086994" expanded="true" signature="272970:273273" ph="{...}" />
+            <marker date="1497231086994" expanded="true" signature="273081:273179" ph="{...}" />
+            <marker date="1497231086994" expanded="true" signature="278497:278616" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding>
+            <marker date="1497231149697" expanded="true" signature="1265:1413" ph="INSERT INTO register... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

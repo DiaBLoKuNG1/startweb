@@ -4875,20 +4875,19 @@
                                 <div class="fusion-column-wrapper">
                                     <div role="form" class="wpcf7" id="wpcf7-f5-p121-o1" lang="en-US" dir="ltr">
                                         <div class="screen-reader-response" ></div>
-                                        <form action="" method="post"
+                                        <form  id="register-form" action="" method="post"
                                               class="wpcf7-form" novalidate="novalidate"
-                                              style="font-size: 16px"
-                                              content="0; url=www.google.com">
-                                            <div style="display: none;"><input type="hidden" name="_wpcf7"
-                                                                               value="5"/>
-                                                <input type="hidden" name="_wpcf7_version" value="4.5.1"/> <input
-                                                        type="hidden" name="_wpcf7_locale" value="en_US"/> <input
-                                                        type="hidden" name="_wpcf7_unit_tag"
-                                                        value="wpcf7-f5-p121-o1"/>
-                                                <input type="hidden" name="_wpnonce" value="30dff825b9"/></div>
+                                              style="font-size: 16px">
+                                            <!--<div style="display: none;"><input type="hidden" name="_wpcf7"-->
+                                                                               <!--value="5"/>-->
+                                                <!--<input type="hidden" name="_wpcf7_version" value="4.5.1"/> <input-->
+                                                        <!--type="hidden" name="_wpcf7_locale" value="en_US"/> <input-->
+                                                        <!--type="hidden" name="_wpcf7_unit_tag"-->
+                                                        <!--value="wpcf7-f5-p121-o1"/>-->
+                                                <!--<input type="hidden" name="_wpnonce" value="30dff825b9"/></div>-->
                                             <p style="color:#000000;">Name :<br/>
                                                 <span class="wpcf7-form-control-wrap your-name"><input type="text"
-                                                                                                       name="your-name"
+                                                                                                       name="register_name"
                                                                                                        value=""
                                                                                                        size="40"
                                                                                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -4897,7 +4896,7 @@
                                             </p>
                                             <p style="color:#000000;">Contact No :<br/>
                                                 <span class="wpcf7-form-control-wrap your-name"><input type="text"
-                                                                                                       name="your-phone"
+                                                                                                       name="register_tel"
                                                                                                        value=""
                                                                                                        size="40"
                                                                                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -4907,11 +4906,10 @@
                                             </p>
                                             <p style="color:#000000;">Email :<br/>
                                                 <span class="wpcf7-form-control-wrap your-email"><input type="email"
-                                                                                                        name="your-email"
+                                                                                                        name="register_email"
                                                                                                         value=""
                                                                                                         size="40"
                                                                                                         class="form-control required"
-                                                                                                        name="email_address"
                                                                                                         aria-required="true"
                                                                                                         aria-invalid="false"/></span>
                                             </p>
@@ -4921,14 +4919,14 @@
                                                 <input type="hidden" id="purpose-code" name="purpose_code" value="">
                                                 <div class="radio">
                                                     <label style="color:#000000;">
-                                                        <input type="radio" name="purpose" checked value="1"> Mediation
+                                                        <input type="radio" name="register_event" checked value="1"> Mediation
                                                         Training Course
                                                     </label>
                                                 </div>
                                                 <br>
                                                 <div class="radio">
                                                     <label style="color:#000000;">
-                                                        <input type="radio" name="purpose" value="2"> Internation
+                                                        <input type="radio" name="register_event" value="2"> Internation
                                                         Abitration Training Course
                                                     </label>
                                                 </div>
