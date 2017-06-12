@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad2117a-ca07-4c35-a432-392034394a71" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/php/register.php" afterPath="$PROJECT_DIR$/scripts/php/register.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
@@ -167,13 +167,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="68">
+              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
               <folding>
-                <marker date="1497231149697" expanded="true" signature="1265:1413" ph="INSERT INTO register... " />
+                <marker date="1497243239475" expanded="true" signature="1137:1285" ph="INSERT INTO register... " />
               </folding>
             </state>
           </provider>
@@ -240,7 +240,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>MerriweatherSans</find>
       <find>ac-logo-no-text-270x270.png</find>
       <find>ac-logo-no-text-270x270.png</find>
       <find>register</find>
@@ -263,13 +262,14 @@
       <find>button</find>
       <find>.flex-direction-nav .flex-next</find>
       <find>Recent Event</find>
-      <find>THAC_LOGO</find>
       <find>#regis</find>
       <find>&lt;img</find>
       <find>&lt;form</find>
       <find>_wpcf7=5&amp;_wpcf7_version</find>
       <find>$infos</find>
       <find>purpose_text</find>
+      <find>THAC_LOGO</find>
+      <find>$code</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -288,9 +288,9 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css" />
         <option value="$PROJECT_DIR$/success.html" />
-        <option value="$PROJECT_DIR$/scripts/php/register.php" />
         <option value="$PROJECT_DIR$/scripts/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scripts/php/register.php" />
       </list>
     </option>
   </component>
@@ -335,6 +335,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -864,12 +896,12 @@
       <option name="presentableId" value="Default" />
       <updated>1497172731591</updated>
       <workItem from="1497172745723" duration="7722000" />
-      <workItem from="1497180902016" duration="27644000" />
+      <workItem from="1497180902016" duration="27992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35366000" />
+    <option name="totallyTimeSpent" value="35714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1033,7 +1065,7 @@
         <state relative-caret-position="85">
           <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
           <folding>
-            <marker date="1497231149697" expanded="true" signature="1265:1413" ph="INSERT INTO register... " />
+            <marker date="1497243239475" expanded="true" signature="1137:1285" ph="INSERT INTO register... " />
           </folding>
         </state>
       </provider>
@@ -1208,16 +1240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <marker date="1497231149697" expanded="true" signature="1265:1413" ph="INSERT INTO register... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1281,6 +1303,16 @@
             <marker date="1497242890650" expanded="true" signature="272981:273284" ph="{...}" />
             <marker date="1497242890650" expanded="true" signature="273092:273190" ph="{...}" />
             <marker date="1497242890650" expanded="true" signature="278508:278627" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/php/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <marker date="1497243239475" expanded="true" signature="1137:1285" ph="INSERT INTO register... " />
           </folding>
         </state>
       </provider>

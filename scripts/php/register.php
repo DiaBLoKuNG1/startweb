@@ -24,12 +24,12 @@ try{
     $budget = 1;
     $current_datetime = date("Y-m-d H:i:s");
     $date = date_create($current_datetime);
-    $dd = date_format($date, "d");
-    $mm = date_format($date, "m");
-    $code = 'XS' . $dd . $mm;
+//    $dd = date_format($date, "d");
+//    $mm = date_format($date, "m");
+//    $code = 'XS' . $dd . $mm;
 
-    $budgets = array("เงินสดรวมขอสินเชื่อ 10 ล้านลงมา", "สามารถขอสินเชื่อ 10 ล้านขึ้นไป", "ซื้อด้วยเงินสด 10-15 ล้าน", "ซื้อด้วยเงินสด หรือ สินเชื่อ เกิน 15 ล้านขึ้นไป");
-    $infos = array("ให้โทรติดต่อกลับด่วน", "ติดต่อกลับภายในอาทิตย์นี้", "สนใจส่งรายละเอียดทาง email");
+    $events = array("MTC", "ATC");
+//    $infos = array("ให้โทรติดต่อกลับด่วน", "ติดต่อกลับภายในอาทิตย์นี้", "สนใจส่งรายละเอียดทาง email");
 
     // Make data to be able to display in Thai.
     $sql = "SET NAMES 'utf8'";
@@ -44,8 +44,26 @@ try{
 
     mysqli_close($conn);
 
+    // Send user information to staff.
+    $text = "รายละเอียดผู้ลงทะเบียน\r\n";
+    $text .= "ชื่อ: " . $name . "\r\n";
+    $text .= "เบอร์ติดต่อ: " . $tel . "\r\n";
+    $text .= "Email: " . $email . "\r\n";
+    $text .= "Event ที่สนใจ: " . $events[$event - 1] . "\r\n";
+    $text .= "เวลา: " . $current_datetime . "\r\n";
+//    $text .= "Code: " . $code . "\r\n";
+
+    // Send mail
+    $to      = 'social@soidea.co';
+
+    $mail->addAddress($to);
+    $mail->Subject = $name . " ลงทะเบียนรับสิทธิ์ X2 Huahin Resort";
+    $mail->Body = $text;
+
+    $mail->send();
+
     echo "done";
-    he
+
     die();
 }catch(Exception $e){
     mysqli_rollback($conn);
