@@ -1,5 +1,8 @@
 <?php
 
+require 'phpmailer/PHPMailerAutoload.php';
+require 'mail_config.php';
+
 try{
     $servername = "localhost";
     $username = "ljjbroa123_ljjbr";
@@ -21,22 +24,17 @@ try{
     $tel = $_POST['register_tel'];
     $email = $_POST['register_email'];
     $event = $_POST['register_event'];
-    $budget = 1;
     $current_datetime = date("Y-m-d H:i:s");
     $date = date_create($current_datetime);
-//    $dd = date_format($date, "d");
-//    $mm = date_format($date, "m");
-//    $code = 'XS' . $dd . $mm;
-
     $events = array("MTC", "ATC");
-//    $infos = array("ให้โทรติดต่อกลับด่วน", "ติดต่อกลับภายในอาทิตย์นี้", "สนใจส่งรายละเอียดทาง email");
 
     // Make data to be able to display in Thai.
     $sql = "SET NAMES 'utf8'";
     $conn->query($sql) or die('Error query: ' . mysqli_error());
 
-    $sql = "INSERT INTO register (name, tel, email, budget, need_info, created_date)
-			VALUES ('$name', '$tel', '$email', $budget, $event, '$current_datetime')";
+    $sql = "INSERT INTO register_thac (name, tel, email, event, created_date)
+			VALUES ('$name', '$tel', '$email', $event, '$current_datetime')";
+
 
     if (!mysqli_query($conn, $sql)) {
         echo "Error: " . $sql . "<br>" . mysqli_error($conn);
@@ -51,15 +49,13 @@ try{
     $text .= "Email: " . $email . "\r\n";
     $text .= "Event ที่สนใจ: " . $events[$event - 1] . "\r\n";
     $text .= "เวลา: " . $current_datetime . "\r\n";
-//    $text .= "Code: " . $code . "\r\n";
 
     // Send mail
-    $to      = 'social@soidea.co';
 
-    $mail->addAddress($to);
-    $mail->Subject = $name . " ลงทะเบียนรับสิทธิ์ X2 Huahin Resort";
+    $mail->addAddress('info@thac.or.th', 'One');
+    $mail->addAddress('social@soidea.co', 'Two');
+    $mail->Subject = $name . " ลงทะเบียน THAC";
     $mail->Body = $text;
-
     $mail->send();
 
     echo "done";
