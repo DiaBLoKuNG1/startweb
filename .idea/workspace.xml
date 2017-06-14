@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad2117a-ca07-4c35-a432-392034394a71" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/THAC_LOGO-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/THAC_LOGO.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/TH_MTC-Banner1200-2-1260x915.jpg" afterPath="$PROJECT_DIR$/images/TH_MTC-Banner1200-2-1260x915.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/php/register.php" afterPath="$PROJECT_DIR$/scripts/php/register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thanks.html" afterPath="$PROJECT_DIR$/thanks.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,28 +19,28 @@
       <file leaf-file-name="1496991754index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="459">
+              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="4953" column="17" lean-forward="false" selection-start-line="4953" selection-start-column="17" selection-end-line="4953" selection-end-column="17" />
+            <state relative-caret-position="332">
+              <caret line="4956" column="54" lean-forward="false" selection-start-line="4956" selection-start-column="54" selection-end-line="4956" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -70,19 +65,19 @@
                 <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1497442213841" expanded="true" signature="10994:11107" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="11363:11513" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="11595:11712" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="11792:11908" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="271997:272116" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="274203:274499" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="274239:274489" ph="{...}" />
-                <marker date="1497442213841" expanded="true" signature="274352:274487" ph="{...}" />
-                <marker date="1497442213841" expanded="true" signature="274691:275082" ph="..." />
-                <marker date="1497442213841" expanded="true" signature="274727:275072" ph="{...}" />
-                <marker date="1497442213841" expanded="true" signature="274765:275068" ph="{...}" />
-                <marker date="1497442213841" expanded="true" signature="274876:274974" ph="{...}" />
-                <marker date="1497442213841" expanded="true" signature="280292:280411" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="10994:11107" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="11363:11513" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="11595:11712" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="11792:11908" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="272024:272143" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="274230:274526" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="274266:274516" ph="{...}" />
+                <marker date="1497452714826" expanded="true" signature="274379:274514" ph="{...}" />
+                <marker date="1497452714826" expanded="true" signature="274718:275109" ph="..." />
+                <marker date="1497452714826" expanded="true" signature="274754:275099" ph="{...}" />
+                <marker date="1497452714826" expanded="true" signature="274792:275095" ph="{...}" />
+                <marker date="1497452714826" expanded="true" signature="274903:275001" ph="{...}" />
+                <marker date="1497452714826" expanded="true" signature="280319:280438" ph="..." />
               </folding>
             </state>
           </provider>
@@ -182,36 +177,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>jquery</find>
-      <find>jquery.min.js</find>
-      <find>a.widget</find>
-      <find>app.j</find>
-      <find>eventblockregister</find>
-      <find>app.</find>
-      <find>Register</find>
-      <find>form</find>
-      <find>button</find>
-      <find>.flex-direction-nav .flex-next</find>
-      <find>Recent Event</find>
-      <find>#regis</find>
-      <find>&lt;img</find>
-      <find>&lt;form</find>
-      <find>_wpcf7=5&amp;_wpcf7_version</find>
-      <find>$infos</find>
-      <find>purpose_text</find>
-      <find>THAC_LOGO</find>
-      <find>$code</find>
-      <find>register_event</find>
-      <find>send</find>
-      <find>lo</find>
-      <find>thac-logo</find>
-      <find>&lt;body</find>
-      <find>thac</find>
-      <find>ลงทะ</find>
-      <find>foot</find>
-      <find>Recent Even</find>
-      <find>.css</find>
+      <find>event-title-highlight .</find>
+      <find>event-title-highlight .t</find>
+      <find>event-title-highlight .ti</find>
+      <find>event-title-wrapper .t</find>
+      <find>ti</find>
+      <find>event-title-wrapper.title</find>
+      <find>event-title-wrapper.titl</find>
+      <find>event-title-wrapper.tit</find>
+      <find>event-title-wrapper.ti</find>
+      <find>event-title-wrapper.t</find>
+      <find>event-title-wrapper.</find>
+      <find>data-fontsize</find>
+      <find>event-title-wrapper /</find>
+      <find>event-title-wrapper</find>
+      <find>event-title-wrapper .</find>
+      <find>event-title-wrapper .titl</find>
+      <find>event-title-wrapper .title</find>
+      <find>event-title-highlight</find>
+      <find>event-header-wrapper t</find>
+      <find>event-header-wrapper</find>
+      <find>event-header-wrapper</find>
+      <find>t</find>
+      <find>title</find>
+      <find>.title</find>
+      <find>event-header-wrapper .title</find>
       <find>highl</find>
+      <find>event-title-wrapper</find>
+      <find>font-size</find>
+      <find>max-width</find>
+      <find>media</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Workspace\thac\scripts\php</dir>
@@ -230,14 +225,14 @@
       <list>
         <option value="$PROJECT_DIR$/css/pumstyle.css" />
         <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css" />
         <option value="$PROJECT_DIR$/success.html" />
         <option value="$PROJECT_DIR$/scripts/js/app.js" />
         <option value="$PROJECT_DIR$/scripts/php/mail_config.php" />
         <option value="$PROJECT_DIR$/thanks.html" />
         <option value="$PROJECT_DIR$/scripts/php/register.php" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -249,10 +244,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -279,6 +274,68 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wpfc-minified" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wpfc-minified" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="139f642843db2ad199f1f9acd235cb09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -841,15 +898,15 @@
       <workItem from="1497172745723" duration="7722000" />
       <workItem from="1497180902016" duration="33491000" />
       <workItem from="1497336908811" duration="1197000" />
-      <workItem from="1497438397476" duration="4262000" />
+      <workItem from="1497438397476" duration="6709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46672000" />
+    <option name="totallyTimeSpent" value="49119000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -873,8 +930,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30597016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -882,7 +940,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -981,19 +1038,19 @@
             <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497442213841" expanded="true" signature="10994:11107" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11363:11513" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11595:11712" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11792:11908" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="271997:272116" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274203:274499" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274239:274489" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274352:274487" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274691:275082" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274727:275072" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274765:275068" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274876:274974" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="280292:280411" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="10994:11107" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11363:11513" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11595:11712" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11792:11908" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="272024:272143" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274230:274526" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274266:274516" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274379:274514" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274718:275109" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274754:275099" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274792:275095" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274903:275001" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="280319:280438" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1118,19 +1175,19 @@
             <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497442213841" expanded="true" signature="10994:11107" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11363:11513" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11595:11712" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11792:11908" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="271997:272116" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274203:274499" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274239:274489" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274352:274487" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274691:275082" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274727:275072" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274765:275068" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274876:274974" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="280292:280411" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="10994:11107" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11363:11513" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11595:11712" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11792:11908" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="272024:272143" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274230:274526" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274266:274516" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274379:274514" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274718:275109" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274754:275099" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274792:275095" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274903:275001" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="280319:280438" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1378,14 +1435,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/events-manager-pro/includes/css/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8041">
@@ -1472,10 +1521,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/cache/wpfc-minified/139f642843db2ad199f1f9acd235cb09/1496991754index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="4953" column="17" lean-forward="false" selection-start-line="4953" selection-start-column="17" selection-end-line="4953" selection-end-column="17" />
+        <state relative-caret-position="332">
+          <caret line="4956" column="54" lean-forward="false" selection-start-line="4956" selection-start-column="54" selection-end-line="4956" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1500,28 +1565,20 @@
             <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497442213841" expanded="true" signature="10994:11107" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11363:11513" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11595:11712" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="11792:11908" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="271997:272116" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274203:274499" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274239:274489" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274352:274487" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274691:275082" ph="..." />
-            <marker date="1497442213841" expanded="true" signature="274727:275072" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274765:275068" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="274876:274974" ph="{...}" />
-            <marker date="1497442213841" expanded="true" signature="280292:280411" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="10994:11107" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11363:11513" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11595:11712" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="11792:11908" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="272024:272143" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274230:274526" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274266:274516" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274379:274514" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274718:275109" ph="..." />
+            <marker date="1497452714826" expanded="true" signature="274754:275099" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274792:275095" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="274903:275001" ph="{...}" />
+            <marker date="1497452714826" expanded="true" signature="280319:280438" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
